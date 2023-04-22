@@ -14,8 +14,10 @@
 <h3 align="center">[🇵🇱] Serwer Dirthut.pl</h3>
 
 <h3 align="center"><a href="https://www.dirthut.pl"><img src="https://i.imgur.com/LrFefQ7.png" alt="serwer" width="400" height="400"/> </a>
-<h3 align="left"> 👽 Skyblock 
-<h3 align="left"> 🙉 Models
-<h3 align="left"> 🐜 1.19.2
-<h3 align="left"> 🌵 I wiele więcej 
+<h3 align="left"> ╔                    
+<h3 align="left">┃👽 Skyblock 
+<h3 align="left">┃ 🙉 Models
+<h3 align="left">┃ 🐜 1.19.2
+<h3 align="left">┃ 🌵 I wiele więcej
+<h3 align="left"> ╚                    
 <h3 align="center"><a href="https://www.dirthut.pl"><img src="https://i.imgur.com/mKM4tth.gif" alt="serwer" width="800" height="150"/> </a>
