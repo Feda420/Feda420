@@ -19,5 +19,10 @@
 <h3 align="left">┃ 🙉 Models
 <h3 align="left">┃ 🐜 1.19.2
 <h3 align="left">┃ 🌵 I wiele więcej
-<h3 align="left"> ╚                    
+<h3 align="left"> ╚   
+<h3 align="left">Serwer Discord:</h3>
+<p align="left">
+<a href="https://discord.gg/FgtdySFA7X" target="blank"><img align="center" src="https://i.imgur.com/LrFefQ7.png" alt="discordserwer" height="30" width="40" /></a>
+</p>
+
 <h3 align="center"><a href="https://www.dirthut.pl"><img src="https://i.imgur.com/xllzztE.png" alt="serwer" width="718" height="135"/> </a>
