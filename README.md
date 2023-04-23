@@ -2,6 +2,7 @@
 <h3 align="center">Jestem pasjonatem informatyki z Polski</h3>
 
 - 🔭 Aktualnie pracuję nad [Serwerem Skyblock + RPG Dirthut.pl](https://dirthut.pl)
+- 🔭 Kanał YT: @Hax_Team
 
 <h3 align="left">Kontakt:</h3>
 <p align="left">
